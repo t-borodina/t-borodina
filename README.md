@@ -15,8 +15,6 @@
 </div>
 </div>
 
-   
-<body >
 <img src="https://github.com/t-borodina/t-borodina/blob/main/isometric-data-dashboard-with-infographics-and-statistics.gif" align="right" height="300" />
 <p>
  
@@ -30,7 +28,6 @@
 ### :book: Мои проекты:
 За время обучения на курсе "Аналитик данных" и проектную деятельность мной выполнено около ... проектов. Здесь собрала наиболее интересные:
 </p>
-<br><br>
  
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
@@ -75,3 +72,4 @@
 <span style="margin-left: 10px;">Git</span>&nbsp;
 
 ---
+###### Illustration by <a href="https://icons8.com/illustrations/author/kP9rc8JiBCcz">Irene M. Ray</a> from <a href="https://icons8.com/illustrations">Ouch!</a>

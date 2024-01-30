@@ -19,7 +19,7 @@
 - :pick: Копаюсь в цифрах, чтоб понять, что они там прячут
 
 - :handshake: Готова к сотрудничеству
-<br />
+
 <img src="https://github.com/t-borodina/t-borodina/blob/main/isometric-data-dashboard-with-infographics-and-statistics.gif" align="left"  height="300" />
 <p>
  </div>

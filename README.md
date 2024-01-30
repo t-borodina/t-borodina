@@ -21,9 +21,9 @@
 
 - :handshake: Готова к сотрудничеству
 
-<img src="https://github.com/t-borodina/t-borodina/blob/main/isometric-data-dashboard-with-infographics-and-statistics.gif" align="left"  height="360" />
+<!-- <img src="https://github.com/t-borodina/t-borodina/blob/main/isometric-data-dashboard-with-infographics-and-statistics.gif" align="left"  height="360" />
 <p>
- </div>
+ </div> -->
 
 <br />
 

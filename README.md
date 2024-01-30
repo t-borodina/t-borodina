@@ -15,21 +15,23 @@
 </div>
 </div>
 
-<div align="center">
- <img height="300" src="https://github.com/t-borodina/t-borodina/blob/main/kit-risk-management-forecasting-and-assessment.gif"  alt="animated" />
-Illustration by <a href="https://icons8.com/illustrations/author/kP9rc8JiBCcz">Irene M. Ray</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
-</div>
-
-
+   
+<body >
+<img src="https://github.com/t-borodina/t-borodina/blob/main/isometric-data-dashboard-with-infographics-and-statistics.gif" align="right" height="300" />
+<p>
+ 
 ### :man_technologist: Обо мне:
 Я Аналитик Данных  с техническим образованием.
 
 - :pick: Копаюсь в цифрах, чтоб понять, что они там прячут
 
 - :handshake: Готова к сотрудничеству
- 
+
 ### :book: Мои проекты:
 За время обучения на курсе "Аналитик данных" и проектную деятельность мной выполнено около ... проектов. Здесь собрала наиболее интересные:
+</p>
+<br><br>
+ 
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
 |[Название](https://ссылка)|Описание.|стек|

@@ -2,13 +2,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*tD5kEC2JYcKHH0zO.gif"  alt="animated" />
 </div>-->
 
-
-
-<img src="https://github.com/t-borodina/t-borodina/blob/main/kit-risk-management-forecasting-and-assessment.gif"  alt="animated" align="left" height="300" />
-
-
-
-<div align="center">
+<img src="https://github.com/t-borodina/t-borodina/blob/main/vivid-business-woman-giving-a-presentation-in-an-office.gif"  alt="animated" align="left" height="300"  style="margin-right: 300px;"/>
   
   ### Привет, меня зовут Татьяна! 👋
 <div id="badges" >

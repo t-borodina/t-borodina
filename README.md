@@ -20,10 +20,12 @@
 
 - :handshake: Готова к сотрудничеству
 
-<img src="https://github.com/t-borodina/t-borodina/blob/main/isometric-data-dashboard-with-infographics-and-statistics.gif" align="left"  height="300" />
+<img src="https://github.com/t-borodina/t-borodina/blob/main/isometric-data-dashboard-with-infographics-and-statistics.gif" align="left"  height="360" />
 <p>
  </div>
- 
+
+<br />
+
 ### :nerd_face: Умею:
 
 - Проведение A/B-тестов и bootstrap, регрессионного и когортного анализа с использованием Python

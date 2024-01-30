@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*tD5kEC2JYcKHH0zO.gif"  alt="animated" />
+</div>
+
+<div align="center">
   <h1> Привет, меня зовут Татьяна! 👋</h1>
 </div>
 
@@ -12,7 +16,10 @@
   </a>
 </div>
 </div>
-    
+
+
+
+
 ### :man_technologist: Обо мне:
 Я Аналитик Данных  с техническим образованием.
 
@@ -30,7 +37,9 @@
 | Строка 4,1 | Строка 4,2 | Строка 4,3 |
 | Строка 5,1 | Строка 5,2 | Строка 5,3 |
 
-### Языки и инструменты :
+---
+
+### :computer: Инструменты :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="35" height="35" valign="middle"/>&nbsp;
 <span style="margin-left: 10px;">Python</span>&nbsp;
@@ -49,12 +58,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="35" height="35" valign="middle"/>&nbsp;
 <span style="margin-left: 10px;">PostgreSQL</span>&nbsp;
 </div>
-<div style="height: 10px;"></div>
+<br />
 <div>
 <img src="https://www.vectorlogo.zone/logos/redashio/redashio-icon.svg" title="Redash" alt="Redash" width="35" height="35" valign="middle"/>&nbsp;
 <span style="margin-left: 10px;">Redash</span>&nbsp;
 <img src="https://img.icons8.com/color/144/tableau-software.png" title="Tableu" alt="Tableu" width="35" height="35" valign="middle"/>&nbsp;
-<span style="margin-left: 10px;">PostgreSQL</span>&nbsp;
+<span style="margin-left: 10px;">Tableu</span>&nbsp;
 <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" title="Airflow" alt="Airflow" width="35" height="35" valign="middle"/>&nbsp;
 <span style="margin-left: 10px;">Airflow</span>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="35" height="35" valign="middle"/>&nbsp;

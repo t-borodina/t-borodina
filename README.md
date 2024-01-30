@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*tD5kEC2JYcKHH0zO.gif"  alt="animated" />
 </div>-->
 
-<img src="https://github.com/t-borodina/t-borodina/blob/main/vivid-business-woman-giving-a-presentation-in-an-office.gif"  alt="animated" align="right" height="300"  style="margin-right: 300px;"/>
+<img src="https://github.com/t-borodina/t-borodina/blob/main/beam-data-analyst-looking-at-charts.gif"  alt="animated" align="right" height="350"/>
   
   ### Привет, меня зовут Татьяна! 👋
 <div id="badges" >
@@ -83,4 +83,4 @@
 <span style="margin-left: 10px;">Git</span>&nbsp;
 
 ---
-###### Illustration by <a href="https://icons8.com/illustrations/author/kP9rc8JiBCcz">Irene M. Ray</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
+###### Illustrations by <a href="https://icons8.com/illustrations/author/mNCLibjicqSz">Julia K <a> and </a> </a><a href="https://icons8.com/illustrations/author/kP9rc8JiBCcz">Irene M. Ray</a> from <a href="https://icons8.com/illustrations">Ouch!</a>

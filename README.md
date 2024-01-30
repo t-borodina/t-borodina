@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*tD5kEC2JYcKHH0zO.gif"  alt="animated" />
 </div>-->
 
-<img src="https://github.com/t-borodina/t-borodina/blob/main/vivid-business-woman-giving-a-presentation-in-an-office.gif"  alt="animated" align="left" height="300"  style="margin-right: 300px;"/>
+<img src="https://github.com/t-borodina/t-borodina/blob/main/vivid-business-woman-giving-a-presentation-in-an-office.gif"  alt="animated" align="right" height="300"  style="margin-right: 300px;"/>
   
   ### Привет, меня зовут Татьяна! 👋
 <div id="badges" >
@@ -11,7 +11,7 @@
   <a href="https://wa.me/79169805436">
   <img src="https://img.shields.io/badge/WhatsApp-teal?logo=whatsapp&logoColor=white?logo=whatsapp&style=flat"height="40"/>
 </div>
-
+<br />
     
 ### :man_technologist: Обо мне:
 Я Аналитик Данных  с техническим образованием.
@@ -19,21 +19,27 @@
 - :pick: Копаюсь в цифрах, чтоб понять, что они там прячут
 
 - :handshake: Готова к сотрудничеству
-<img src="https://github.com/t-borodina/t-borodina/blob/main/isometric-data-dashboard-with-infographics-and-statistics.gif" align="right" height="300" />
+<br />
+<br />
+<img src="https://github.com/t-borodina/t-borodina/blob/main/isometric-data-dashboard-with-infographics-and-statistics.gif" align="left"  height="300" />
 <p>
  </div>
  
-### :man_technologist: Обо мне:
-Я Аналитик Данных  с техническим образованием.
-
-- :pick: Копаюсь в цифрах, чтоб понять, что они там прячут
-
-- :handshake: Готова к сотрудничеству
+### :nerd_face: Умею:
+<ul>
+<li>Проведение A/B-тестов и bootstrap, регрессионного и когортного анализа с использованием Python
+<li>Навыки работы с SQL, включая вложенные запросы, оконные функции и конструкции case
+<li>Создание дашбордов, в том числе с помощью Tableau
+<li>Расчет ключевых метрик продукта, таких как ARPU, ARPPU, retention, conversion и churn rate
+</ul>
 
 ### :book: Мои проекты:
 За время обучения на курсе "Аналитик данных" и проектную деятельность мной выполнено около ... проектов. Здесь собрала наиболее интересные:
 </p>
- 
+
+<div align="center">
+<br />
+  
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
 |[Название](https://ссылка)|Описание.|стек|
@@ -41,7 +47,7 @@
 |[Название](https://ссылка)|Описание.|стек|
 |[Название](https://ссылка)|Описание.|стек|
 |[Название](https://ссылка)|Описание.|стек|
-
+</div>
 ---
 
 ### :computer: Языки и Инструменты :

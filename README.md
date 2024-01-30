@@ -15,6 +15,9 @@
 </div>
 </div>
 
+<div align="center">
+  Illustration by <a href="https://icons8.com/illustrations/author/kP9rc8JiBCcz">Irene M. Ray</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
+</div>
 
 
 

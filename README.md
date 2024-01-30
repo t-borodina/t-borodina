@@ -2,11 +2,16 @@
   <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*tD5kEC2JYcKHH0zO.gif"  alt="animated" />
 </div>
 
-<div align="center">
-  <h1> Привет, меня зовут Татьяна! 👋</h1>
-</div>
+
+
+
+<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*tD5kEC2JYcKHH0zO.gif"  alt="animated" align="left" height="300" />
+
+
 
 <div align="center">
+
+  ### Привет, меня зовут Татьяна! 👋
 <div id="badges" align="center">
   <a href="https://t.me/tanizm">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white?logo=telegram&style=flat" alt="Telegram Badge"height="40"/>
@@ -14,7 +19,13 @@
   <img src="https://img.shields.io/badge/WhatsApp-teal?logo=whatsapp&logoColor=white?logo=whatsapp&style=flat"height="40"/>
 </div>
 </div>
+    
+### :man_technologist: Обо мне:
+Я Аналитик Данных  с техническим образованием.
 
+- :pick: Копаюсь в цифрах, чтоб понять, что они там прячут
+
+- :handshake: Готова к сотрудничеству
 <img src="https://github.com/t-borodina/t-borodina/blob/main/isometric-data-dashboard-with-infographics-and-statistics.gif" align="right" height="300" />
 <p>
  

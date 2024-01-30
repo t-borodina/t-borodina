@@ -37,7 +37,7 @@
 
 ---
 
-### :computer: Инструменты :
+### :computer: Языки и Инструменты :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="35" height="35" valign="middle"/>&nbsp;
 <span style="margin-left: 10px;">Python</span>&nbsp;

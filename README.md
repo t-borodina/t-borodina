@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*tD5kEC2JYcKHH0zO.gif"  alt="animated" />
 </div>-->
 
-<img src="https://github.com/t-borodina/t-borodina/blob/main/beam-data-analyst-looking-at-charts.gif"  alt="animated" align="right" height="350"/>
+<img src="https://github.com/t-borodina/t-borodina/blob/main/kit-robo-advisor-working-on-holographic-screen.gif"  alt="animated" align="right" height="300"/>
 
   ### Привет, меня зовут Татьяна! &nbsp; :wave:
   
@@ -52,37 +52,41 @@
 
 ---
 
+<img src="https://github.com/t-borodina/t-borodina/blob/main/transistor-robot.gif"  alt="animated" align="right" width="140"/>
+
 ### :computer: Языки и Инструменты :
+<br />
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="35" height="35" valign="middle"/>&nbsp;
-<span style="margin-left: 10px;">Python</span>&nbsp;
+<span>Python</span> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="35" height="35" valign="middle"/>&nbsp;
-<span style="margin-left: 10px;">Pandas</span>&nbsp;
+<span>Pandas</span> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="35" height="35" valign="middle"/>&nbsp;
-<span style="margin-left: 10px;">Numpy</span>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" title="Plotly" alt="Plotly" width="35" height="35" valign="middle"/>&nbsp;
-<span style="margin-left: 10px;">Plotly</span>&nbsp;
+<span>Numpy</span> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://icon.icepanel.io/Technology/svg/Ploty.svg" title="Plotly" alt="Plotly" width="35" height="35" valign="middle"/>&nbsp;
+<span>Plotly</span> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="35" height="35" valign="middle"/>&nbsp;
-<span style="margin-left: 10px;">Jupyter</span>&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/clickhouse.svg" title="ClickHouse" alt="ClickHouse" width="35" height="35" valign="middle"/>&nbsp;
-<span style="margin-left: 10px;">ClickHouse</span>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="35" height="35" valign="middle"/>&nbsp;
-<span style="margin-left: 10px;">MySQL</span>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="35" height="35" valign="middle"/>&nbsp;
-<span style="margin-left: 10px;">PostgreSQL</span>&nbsp;
+<span>Jupyter</span> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="35" height="35" valign="middle"/>&nbsp;
+<span>GitHub</span> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="35" height="35" valign="middle"/>&nbsp;
+<span>Git</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <br />
 <div>
 <img src="https://www.vectorlogo.zone/logos/redashio/redashio-icon.svg" title="Redash" alt="Redash" width="35" height="35" valign="middle"/>&nbsp;
-<span style="margin-left: 10px;">Redash</span>&nbsp;
+<span>Redash</span> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/144/tableau-software.png" title="Tableu" alt="Tableu" width="35" height="35" valign="middle"/>&nbsp;
-<span style="margin-left: 10px;">Tableu</span>&nbsp;
+<span>Tableu</span> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" title="Airflow" alt="Airflow" width="35" height="35" valign="middle"/>&nbsp;
-<span style="margin-left: 10px;">Airflow</span>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="35" height="35" valign="middle"/>&nbsp;
-<span style="margin-left: 10px;">GitHub</span>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="35" height="35" valign="middle"/>&nbsp;
-<span style="margin-left: 10px;">Git</span>&nbsp;
+<span>Airflow</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="35" height="35" valign="middle"/>&nbsp;
+<span>MySQL</span> &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="35" height="35" valign="middle"/>&nbsp;
+<span>PostgreSQL</span> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/clickhouse.svg" title="ClickHouse" alt="ClickHouse" width="35" height="35" valign="middle"/>&nbsp;
+<span>ClickHouse</span> &nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
-###### Illustrations by <a href="https://icons8.com/illustrations/author/mNCLibjicqSz">Julia K <a> and </a> </a><a href="https://icons8.com/illustrations/author/kP9rc8JiBCcz">Irene M. Ray</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
+
+###### Illustrations by <a href="https://icons8.com/illustrations/author/zD2oqC8lLBBA">Icons 8<a>, </a>  <a href="https://icons8.com/illustrations/author/mNCLibjicqSz">Julia K <a> and </a> </a><a href="https://icons8.com/illustrations/author/kP9rc8JiBCcz">Irene M. Ray</a> from <a href="https://icons8.com/illustrations">Ouch!</a>

@@ -58,34 +58,34 @@
 <br />
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="35" height="35" valign="middle"/>&nbsp;
-<span>Python</span> &nbsp;&nbsp;&nbsp;&nbsp;
+<span>Python</span> &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="35" height="35" valign="middle"/>&nbsp;
-<span>Pandas</span> &nbsp;&nbsp;&nbsp;&nbsp;
+<span>Pandas</span> &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="35" height="35" valign="middle"/>&nbsp;
-<span>Numpy</span> &nbsp;&nbsp;&nbsp;&nbsp;
+<span>Numpy</span> &nbsp;&nbsp;&nbsp;
 <img src="https://icon.icepanel.io/Technology/svg/Ploty.svg" title="Plotly" alt="Plotly" width="35" height="35" valign="middle"/>&nbsp;
-<span>Plotly</span> &nbsp;&nbsp;&nbsp;&nbsp;
+<span>Plotly</span> &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="35" height="35" valign="middle"/>&nbsp;
-<span>Jupyter</span> &nbsp;&nbsp;&nbsp;&nbsp;
+<span>Jupyter</span> &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="35" height="35" valign="middle"/>&nbsp;
-<span>GitHub</span> &nbsp;&nbsp;&nbsp;&nbsp;
+<span>GitHub</span> &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="35" height="35" valign="middle"/>&nbsp;
 <span>Git</span> &nbsp;&nbsp;&nbsp;
 </div>
 <br />
 <div>
 <img src="https://www.vectorlogo.zone/logos/redashio/redashio-icon.svg" title="Redash" alt="Redash" width="35" height="35" valign="middle"/>&nbsp;
-<span>Redash</span> &nbsp;&nbsp;&nbsp;&nbsp;
+<span>Redash</span> &nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/144/tableau-software.png" title="Tableu" alt="Tableu" width="35" height="35" valign="middle"/>&nbsp;
-<span>Tableu</span> &nbsp;&nbsp;&nbsp;&nbsp;
+<span>Tableu</span> &nbsp;&nbsp;&nbsp;
 <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" title="Airflow" alt="Airflow" width="35" height="35" valign="middle"/>&nbsp;
-<span>Airflow</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>Airflow</span> &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="35" height="35" valign="middle"/>&nbsp;
-<span>MySQL</span> &nbsp;&nbsp;&nbsp;
+<span>MySQL</span> &nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="35" height="35" valign="middle"/>&nbsp;
-<span>PostgreSQL</span> &nbsp;&nbsp;&nbsp;&nbsp;
+<span>PostgreSQL</span> &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/clickhouse.svg" title="ClickHouse" alt="ClickHouse" width="35" height="35" valign="middle"/>&nbsp;
-<span>ClickHouse</span> &nbsp;&nbsp;&nbsp;&nbsp;
+<span>ClickHouse</span> &nbsp;&nbsp;&nbsp;
 
 ---
 

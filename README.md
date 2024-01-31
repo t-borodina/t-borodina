@@ -70,7 +70,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="35" height="35" valign="middle"/>&nbsp;
 <span>GitHub</span> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="35" height="35" valign="middle"/>&nbsp;
-<span>Git</span> &nbsp;&nbsp;&nbsp;&nbsp;
+<span>Git</span> &nbsp;&nbsp;&nbsp;
 </div>
 <br />
 <div>

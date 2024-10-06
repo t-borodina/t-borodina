@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*tD5kEC2JYcKHH0zO.gif"  alt="animated" />
 </div>-->
 
-<img src="https://github.com/t-borodina/t-borodina/blob/main/2-anim-engie_1.gif"  alt="animated" align="right" height="300"/>
+<img src="https://github.com/t-borodina/t-borodina/blob/main/3d-isometric-financial-statistics-and-currency-analytics.png"  alt="animated" align="right" height="300"/>
 
   ### Привет, меня зовут Татьяна! &nbsp; :wave:
   

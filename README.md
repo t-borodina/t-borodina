@@ -43,11 +43,8 @@
   
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
-|[Название](https://ссылка)|Описание.|стек|
-|[Название](https://ссылка)|Описание.|стек|
-|[Название](https://ссылка)|Описание.|стек|
-|[Название](https://ссылка)|Описание.|стек|
-|[Название](https://ссылка)|Описание.|стек|
+|[Анализ продуктовых метрик мобильного приложения](https://github.com/t-borodina/t-borodina/blob/main/Mobile_app_analytics.ipynb)|Разделение пользователей на когорты в зависимости от даты регистрации в приложении, осуществление А/B-тестирования с использованием метода bootstrap для оценки статистической значимости изменений в ARPU и ARPPU, а также разработка группы метрик при внесении изменений в механику приложения.|Python, Jupiter Notebook, SQL, Tableau, ClickHouse, Redash, Apache Airflow, API, Pandas, Numpy, Git, Matplotlib, Seaborn|
+|[Исследование продажи товаров онлайн](https://github.com/t-borodina/t-borodina/blob/main/e-commerce.ipynb)|Произведен анализ покупок, совершенных пользователями. Выявлены предпочтительные дни недели для каждого товара. Выполнен анализ пользователей по метрике retention, включая изучение удержания пользователей в различные периоды. Реализована RFM-сегментация пользователей для качественного анализа аудитории.|Python, Jupiter Notebook, SQL, Tableau, ClickHouse, Redash, Apache Airflow, API, Pandas, Numpy, Git, Matplotlib, Seaborn|
 </div>
 
 ---
@@ -84,7 +81,7 @@
 <span>MySQL</span> &nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="35" height="35" valign="middle"/>&nbsp;
 <span>PostgreSQL</span> &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/clickhouse.svg" title="ClickHouse" alt="ClickHouse" width="35" height="35" valign="middle"/>&nbsp;
+<img src="https://www.cdnlogo.com/logos/c/57/clickhouse.svg" title="ClickHouse" alt="ClickHouse" width="35" height="35" valign="middle"/>&nbsp;
 <span>ClickHouse</span> &nbsp;&nbsp;&nbsp;
 
 ---

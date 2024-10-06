@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*tD5kEC2JYcKHH0zO.gif"  alt="animated" />
 </div>-->
 
-<img src="https://github.com/t-borodina/t-borodina/blob/main/kit-robo-advisor-working-on-holographic-screen.gif"  alt="animated" align="right" height="300"/>
+<img src="https://github.com/t-borodina/t-borodina/blob/main/2-anim-engie_1.gif"  alt="animated" align="right" height="300"/>
 
   ### Привет, меня зовут Татьяна! &nbsp; :wave:
   
@@ -35,7 +35,7 @@
 - Расчитывать ключевые метрики продукта, такие как ARPU, ARPPU, retention, conversion и churn rate
 
 ### :book: Мои проекты:
-За время обучения на курсе "Аналитик данных" и проектную деятельность мной выполнено около ... проектов. Здесь собрала наиболее интересные:
+За время обучения на курсе "Аналитик данных" и проектную деятельность выполнила несколько проектов. Здесь собрала наиболее интересные:
 </p>
 
 <div align="center">
@@ -51,7 +51,7 @@
 
 <img src="https://github.com/t-borodina/t-borodina/blob/main/transistor-robot.gif"  alt="animated" align="right" width="140"/>
 
-### :computer: Языки и Инструменты :
+### :computer: Языки и Инструменты:
 <br />
 <div><strong>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="35" height="35" valign="middle"/>&nbsp;
@@ -83,6 +83,19 @@
 <span>PostgreSQL</span> &nbsp;&nbsp;&nbsp;
 <img src="https://www.cdnlogo.com/logos/c/57/clickhouse.svg" title="ClickHouse" alt="ClickHouse" width="35" height="35" valign="middle"/>&nbsp;
 <span>ClickHouse</span> &nbsp;&nbsp;&nbsp;
+
+---
+
+### :mortar_board: Курсы:
+Закончила несколько курсов, чтобы прокачать свои навыки
+<p align="center">
+  <img src="https://github.com/t-borodina/t-borodina/blob/main/karpov.courses.png" width="200"/>
+  <img src="https://github.com/t-borodina/t-borodina/blob/main/statistics_stepik.png" width="200"/>
+</p>
+<p align="center">
+  <img src="https://github.com/t-borodina/t-borodina/blob/main/ml_msu.png" width="200"/>
+  <img src="https://github.com/t-borodina/t-borodina/blob/main/python_msu.png" width="200"/>
+</p>
 
 ---
 

@@ -25,7 +25,7 @@
 - Создавать дашборды, в том числе с помощью Tableau
 - Расчитывать ключевые метрики продукта, такие как ARPU, ARPPU, retention, conversion и churn rate
 
-### :book: Мои проекты:
+### :book: Мои проекты
 За время обучения на курсе "Аналитик данных" и проектную деятельность выполнила несколько проектов. Здесь собрала наиболее интересные:
 </p>
 
@@ -42,7 +42,7 @@
 
 <img src="https://github.com/t-borodina/t-borodina/blob/main/transistor-robot.gif"  alt="animated" align="right" width="140"/>
 
-### :computer: Языки и Инструменты:
+### :computer: Языки и Инструменты
 <br />
 <div><strong>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="35" height="35" valign="middle"/>&nbsp;
@@ -59,7 +59,7 @@
 <span>GitHub</span> &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="35" height="35" valign="middle"/>&nbsp;
 <span>Git</span> &nbsp;&nbsp;&nbsp;
-</div><strong/>
+</div></strong>
 <br />
 <div><strong>
 <img src="https://www.vectorlogo.zone/logos/redashio/redashio-icon.svg" title="Redash" alt="Redash" width="35" height="35" valign="middle"/>&nbsp;
@@ -74,14 +74,12 @@
 <span>PostgreSQL</span> &nbsp;&nbsp;&nbsp;
 <img src="https://www.cdnlogo.com/logos/c/57/clickhouse.svg" title="ClickHouse" alt="ClickHouse" width="35" height="35" valign="middle"/>&nbsp;
 <span>ClickHouse</span> &nbsp;&nbsp;&nbsp;
-</div><strong/>
+</div></strong>
 
 ---
 
-<div>
-  
-### :mortar_board: Курсы:
-Закончила несколько прикладных курсов, чтобы прокачать свои навыки
+### :mortar_board: Курсы
+Закончила несколько прикладных курсов, чтобы прокачать свои навыки:
 
 <div align="center">
   <img src="https://github.com/t-borodina/t-borodina/blob/main/karpov.courses.png" width="400"/>
@@ -90,7 +88,6 @@
 <div align="center">
   <img src="https://github.com/t-borodina/t-borodina/blob/main/ml_msu.png" width="400"/>
   <img src="https://github.com/t-borodina/t-borodina/blob/main/python_msu.png" width="400"/>
-</div>
 </div>
 
 ---

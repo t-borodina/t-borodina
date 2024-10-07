@@ -78,13 +78,12 @@
 ---
 
 ### :mortar_board: Курсы:
-<br />
 Закончила несколько прикладных курсов, чтобы прокачать свои навыки
 
-<p align="center">
+<div align="center">
   <img src="https://github.com/t-borodina/t-borodina/blob/main/karpov.courses.png" width="400"/>
   <img src="https://github.com/t-borodina/t-borodina/blob/main/statistics_stepik.png" width="400"/>
-</p>
+</div>
 <p align="center">
   <img src="https://github.com/t-borodina/t-borodina/blob/main/ml_msu.png" width="400"/>
   <img src="https://github.com/t-borodina/t-borodina/blob/main/python_msu.png" width="400"/>

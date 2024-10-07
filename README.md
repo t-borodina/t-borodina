@@ -44,7 +44,7 @@
 
 ### :computer: Языки и Инструменты:
 <br />
-<div>
+<div><strong>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="35" height="35" valign="middle"/>&nbsp;
 <span>Python</span> &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="35" height="35" valign="middle"/>&nbsp;
@@ -59,7 +59,7 @@
 <span>GitHub</span> &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="35" height="35" valign="middle"/>&nbsp;
 <span>Git</span> &nbsp;&nbsp;&nbsp;
-</div>
+</div><strong/>
 <br />
 <div><strong>
 <img src="https://www.vectorlogo.zone/logos/redashio/redashio-icon.svg" title="Redash" alt="Redash" width="35" height="35" valign="middle"/>&nbsp;
@@ -75,7 +75,7 @@
 <img src="https://www.cdnlogo.com/logos/c/57/clickhouse.svg" title="ClickHouse" alt="ClickHouse" width="35" height="35" valign="middle"/>&nbsp;
 <span>ClickHouse</span> &nbsp;&nbsp;&nbsp;
 </div><strong/>
-
+<br />
 ---
 
 ### :mortar_board: Курсы:

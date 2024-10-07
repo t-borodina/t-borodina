@@ -75,10 +75,11 @@
 <img src="https://www.cdnlogo.com/logos/c/57/clickhouse.svg" title="ClickHouse" alt="ClickHouse" width="35" height="35" valign="middle"/>&nbsp;
 <span>ClickHouse</span> &nbsp;&nbsp;&nbsp;
 </div><strong/>
-<br />
 
 ---
 
+<div>
+  
 ### :mortar_board: Курсы:
 Закончила несколько прикладных курсов, чтобы прокачать свои навыки
 
@@ -89,6 +90,7 @@
 <div align="center">
   <img src="https://github.com/t-borodina/t-borodina/blob/main/ml_msu.png" width="400"/>
   <img src="https://github.com/t-borodina/t-borodina/blob/main/python_msu.png" width="400"/>
+</div>
 </div>
 
 ---

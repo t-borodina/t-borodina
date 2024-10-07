@@ -76,6 +76,7 @@
 <span>ClickHouse</span> &nbsp;&nbsp;&nbsp;
 </div><strong/>
 <br />
+
 ---
 
 ### :mortar_board: Курсы:

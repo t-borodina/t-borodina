@@ -1,4 +1,4 @@
-<img src="hidden" style="display:none" align="right" height="50"/>
+<p align="right">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <img src="https://github.com/t-borodina/t-borodina/blob/main/3d-isometric-financial-statistics-and-currency-analytics.gif"  alt="animated" align="right" height="300"/>
 
   ### Привет, меня зовут Татьяна! &nbsp; :wave:
@@ -84,7 +84,7 @@
 
 <p align="center">
   <img src="https://github.com/t-borodina/t-borodina/blob/main/karpov.courses.png" width="400"/>
-  <img src="https://github.com/t-borodina/t-borodina/blob/main/statistics_stepik.png" width="400" style="border: 2px solid black;"/>
+  <img src="https://github.com/t-borodina/t-borodina/blob/main/statistics_stepik.png" width="400"/>
 </p>
 <p align="center">
   <img src="https://github.com/t-borodina/t-borodina/blob/main/ml_msu.png" width="400"/>

@@ -61,7 +61,7 @@
 <span>Git</span> &nbsp;&nbsp;&nbsp;
 </div>
 <br />
-<div>
+<div><strong>
 <img src="https://www.vectorlogo.zone/logos/redashio/redashio-icon.svg" title="Redash" alt="Redash" width="35" height="35" valign="middle"/>&nbsp;
 <span>Redash</span> &nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/144/tableau-software.png" title="Tableu" alt="Tableu" width="35" height="35" valign="middle"/>&nbsp;
@@ -74,6 +74,7 @@
 <span>PostgreSQL</span> &nbsp;&nbsp;&nbsp;
 <img src="https://www.cdnlogo.com/logos/c/57/clickhouse.svg" title="ClickHouse" alt="ClickHouse" width="35" height="35" valign="middle"/>&nbsp;
 <span>ClickHouse</span> &nbsp;&nbsp;&nbsp;
+</div><strong/>
 
 ---
 

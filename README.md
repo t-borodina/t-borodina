@@ -1,30 +1,3 @@
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    ### Привет, меня зовут Татьяна! &nbsp; :wave:
-
-    <div id="badges">
-      <a href="https://t.me/tanizm">
-        <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white?logo=telegram&style=flat" alt="Telegram Badge" height="40"/>
-      </a>
-      <a href="https://wa.me/79169805436">
-        <img src="https://img.shields.io/badge/WhatsApp-teal?logo=whatsapp&logoColor=white?logo=whatsapp&style=flat" height="40"/>
-      </a>
-    </div>
-    <br />
-
-    ### :man_technologist: Обо мне:
-    Я Аналитик Данных с техническим образованием.
-
-    - :pick: Копаюсь в цифрах, чтоб понять, что они там прячут
-    - :handshake: Готова к сотрудничеству
-  </div>
-  
-  <div style="flex: 1;">
-    <img src="https://via.placeholder.com/150" alt="Placeholder image" style="max-width: 100%;">
-  </div>
-</div>
-
-
 <!-- <div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*tD5kEC2JYcKHH0zO.gif"  alt="animated" />
 </div>-->

@@ -1,3 +1,4 @@
+<img src="https://github.com/t-borodina/t-borodina/blob/main/nothing.png" align="right" width="200"/>
 <img src="https://github.com/t-borodina/t-borodina/blob/main/3d-isometric-financial-statistics-and-currency-analytics.gif"  alt="animated" align="right" height="325"/>
 
   ### Привет, меня зовут Татьяна! &nbsp; :wave:

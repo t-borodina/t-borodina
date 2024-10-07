@@ -1,6 +1,6 @@
-<p align="right">Ваш текст или изображение</p>
-<p align="right">Ваш текст или изображение</p>
+<p align="right">Ваш текст или изображение
 <img src="https://github.com/t-borodina/t-borodina/blob/main/3d-isometric-financial-statistics-and-currency-analytics.gif"  alt="animated" align="right" height="300"/>
+</p>
 
   ### Привет, меня зовут Татьяна! &nbsp; :wave:
   

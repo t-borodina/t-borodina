@@ -91,7 +91,7 @@
 
 <p align="center">
   <img src="https://github.com/t-borodina/t-borodina/blob/main/karpov.courses.png" width="400"/>
-  <img src="https://github.com/t-borodina/t-borodina/blob/main/statistics_stepik.png" width="400"/>
+  <img src="https://github.com/t-borodina/t-borodina/blob/main/statistics_stepik.png" width="400" style="border: 2px solid black;">/>
 </p>
 <p align="center">
   <img src="https://github.com/t-borodina/t-borodina/blob/main/ml_msu.png" width="400"/>

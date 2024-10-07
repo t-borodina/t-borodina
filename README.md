@@ -1,6 +1,3 @@
-<img src="https://github.com/t-borodina/t-borodina/blob/main/3d-isometric-financial-statistics-and-currency-analytics.gif"  alt="animated" align="right" height="350"/>
-
-
   ### Привет, меня зовут Татьяна! &nbsp; :wave:
   
 <div id="badges" >
@@ -17,11 +14,7 @@
 - :pick: Копаюсь в цифрах, чтоб понять, что они там прячут
 - :handshake: Готова к сотрудничеству
 
-<!-- <img src="https://github.com/t-borodina/t-borodina/blob/main/isometric-data-dashboard-with-infographics-and-statistics.gif" align="left"  height="360" />
-<p>
- </div> -->
-
-<br />
+<img src="https://github.com/t-borodina/t-borodina/blob/main/3d-isometric-financial-statistics-and-currency-analytics.gif"  alt="animated" align="right" height="350"/>
 
 ### :nerd_face: Умею:
 

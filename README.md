@@ -64,13 +64,13 @@
 <br />
 <div><strong>
 <img src="https://www.vectorlogo.zone/logos/redashio/redashio-icon.svg" title="Redash" alt="Redash" width="35" height="35" valign="middle"/>&nbsp;
-<span>Redash</span> &nbsp;&nbsp;
+<span>Redash</span> &nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/144/tableau-software.png" title="Tableu" alt="Tableu" width="35" height="35" valign="middle"/>&nbsp;
-<span>Tableu</span> &nbsp;&nbsp;
+<span>Tableu</span> &nbsp;&nbsp;&nbsp;
 <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" title="Airflow" alt="Airflow" width="35" height="35" valign="middle"/>&nbsp;
-<span>Airflow</span> &nbsp;&nbsp;
+<span>Airflow</span> &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="35" height="35" valign="middle"/>&nbsp;
-<span>MySQL</span> &nbsp;&nbsp;
+<span>MySQL</span> &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="35" height="35" valign="middle"/>&nbsp;&nbsp;
 <span>PostgreSQL</span> &nbsp;&nbsp;
 <img src="https://www.cdnlogo.com/logos/c/57/clickhouse.svg" title="ClickHouse" alt="ClickHouse" width="35" height="35" valign="middle"/>&nbsp;

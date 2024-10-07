@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*tD5kEC2JYcKHH0zO.gif"  alt="animated" />
-</div>
-
-<img src="https://github.com/t-borodina/t-borodina/blob/main/3d-isometric-financial-statistics-and-currency-analytics.gif"  alt="animated" align="right" height="350"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/t-borodina/t-borodina/blob/main/3d-isometric-financial-statistics-and-currency-analytics.gif"  alt="animated" align="right" height="350"/>
 
 
   ### Привет, меня зовут Татьяна! &nbsp; :wave:

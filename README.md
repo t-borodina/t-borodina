@@ -3,7 +3,7 @@
 </div>-->
 
 <img src="https://github.com/t-borodina/t-borodina/blob/main/3d-isometric-financial-statistics-and-currency-analytics.gif"  alt="animated" align="right" height="350"/>
-<div style="width: 200px; visibility: hidden; align="right""></div>
+&nbsp;&nbsp;
 
   ### Привет, меня зовут Татьяна! &nbsp; :wave:
   
